@@ -1,0 +1,9 @@
+{
+  "name": "js0n",
+  "version": "1.0.0",
+  "repo": "mbucc/js0n",
+  "description": "json parser",
+  "license": "Public domain",
+  "src": ["js0n.c", "js0n.h", "j0g.c", "j0g.h", "js0n.3", "j0g.3"],
+  "makefile": "Makefile"
+}
